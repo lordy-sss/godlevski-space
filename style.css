@@ -113,7 +113,7 @@ color: rgb(255, 255, 255);
 font-size: 20px;
 }
 .rocket:hover {
-transform:translateY(-1000px);
+transform:translateY(-1000000000px);
 transition:all 3s ease-out;
 }
 
@@ -135,7 +135,7 @@ opacity:0;
 
 .Earth:hover {
 transition:all 3s ease-out;
-transform:translateX(1000px);
+transform:translateX(10000000000px);
 }
 
 .chibi {
